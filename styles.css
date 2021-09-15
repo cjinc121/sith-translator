@@ -1,0 +1,64 @@
+body {
+  font-family: "Spectral", serif;
+  color: azure;
+  background-color: beige;
+  text-align: center;
+}
+.main {
+  background-color: bisque;
+  max-width: 80%;
+  max-height: 100%;
+  margin: auto;
+  border-radius: 1rem;
+}
+#txt-input {
+  width: 50%;
+  height: 10vh;
+  display: block;
+  margin: 40px auto;
+  padding: 1rem;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 1rem;
+}
+#output {
+  border: 1px solid black;
+  height: 10vh;
+  width: 30%;
+  margin: 40px auto;
+  padding: 1rem;
+  background-color: rgba(255, 255, 255, 0.7);
+  color: black;
+  border-radius: 1rem;
+}
+#btn-translate {
+  padding: 0.5rem;
+  border-radius: 1rem;
+  background-color: rgba(255, 255, 255, 0.7);
+  color: black;
+}
+.footer {
+  text-align: center;
+  background-color: brown;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+.footer ul {
+  padding-inline-start: 0px;
+}
+.f {
+  color: antiquewhite;
+}
+.non-bull {
+  list-style: none;
+}
+.list-inline {
+  display: inline;
+  padding: 0rem 0.5rem;
+}
+.navbar {
+  background-color: brown;
+  padding: 2rem;
+  font-size: larger;
+  font-weight: bolder;
+  border-radius: 1rem;
+}
